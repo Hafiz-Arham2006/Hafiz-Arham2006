@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arham</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt="Coding.." width="400">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafizarham290" alt="hafizarham290" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafizarham290" alt="hafizarham290" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/hafiz arham" target="blank"><img src="https://img.shields.io/twitter/follow/hafiz arham?logo=twitter&style=for-the-badge" alt="hafiz arham" /></a> </p>
 

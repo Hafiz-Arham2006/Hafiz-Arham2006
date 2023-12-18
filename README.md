@@ -4,9 +4,9 @@
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding.." width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz-arham2006&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz-arham2006" /> </p>
 
-- 🌱 I’m currently learning **PHP , Laravel , MySQL , and many more..**
+- 🌱 I’m currently learning Backend Development (PHP , Laravel , MySQL , and many more..)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about Front end Development | Web Development
 
 - 📫 How to reach me **hafizarham2006@gmail.com**
 

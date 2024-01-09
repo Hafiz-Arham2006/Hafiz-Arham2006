@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hafizarham2006@gmail.com**
 
-- ⚡ Fun fact **I know about everything even without Knowing everything**
+- ⚡ Fun fact **I know about everything even without Knowing anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
